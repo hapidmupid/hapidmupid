@@ -1,4 +1,4 @@
-```
+
 # 🎨 Selamat Datang di Profil Kreatif Saya! 🌈
 
 ![Banner Kreatif](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGRlc2lnbiUyMGdyYWZpc3xlbnwwfHx8fDE2MzYyMjY0MjM&ixlib=rb-1.2.1&q=80&w=1080)
@@ -61,4 +61,4 @@ Jika Anda ingin berbicara tentang desain, kolaborasi, atau hanya ingin berbagi m
 ![Meme Lucu](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
 
 Semoga hari Anda menyenangkan dan penuh kreativitas! 🌟
-```
+
