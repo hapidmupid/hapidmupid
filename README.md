@@ -1,31 +1,26 @@
-### Hi there 👋 I'm [Nama Anda]
+# 🎉 Selamat Datang di Proyek Konyol Ini! 🎉
 
-🌟 **Tentang Saya**: 
-Saya adalah seorang [profesi atau hobi] yang bersemangat tentang [bidang atau teknologi yang Anda minati].
+![Meme Konyol](https://i.pinimg.com/originals/3e/5c/4e/3e5c4e1c1c1b1c1b1c1b1c1b1c1b1c1.jpg)
 
-- 🔭 I’m currently working on [proyek yang sedang dikerjakan].
-- 🌱 I’m currently learning [teknologi atau keterampilan baru].
-- 👯 I’m looking to collaborate on [jenis proyek atau kolaborasi yang diinginkan].
-- 💬 Ask me about [topik yang Anda kuasai].
-- 📫 How to reach me: [email atau media sosial].
-- 😄 Pronouns: [pronoun Anda].
-- ⚡ Fun fact: [fakta menarik tentang diri Anda].
+## 🤔 Apa Ini?
 
----
+Ini adalah proyek yang tidak terlalu serius, di mana saya mencoba membuat sesuatu yang konyol dan menyenangkan. Jika Anda mencari sesuatu yang berguna, mungkin Anda harus pergi ke tempat lain. 😜
 
-### 📊 GitHub Stats
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=hapidmupid&show_icons=true&theme=radical)
+## 🕹️ Mini Game: Tebak Angka!
 
-### 🌐 Proyek Terbaru
-- [Nama Proyek](link-ke-proyek) - Deskripsi singkat tentang proyek.
+Cobalah mini game sederhana ini! Tebak angka antara 1 dan 10. Jika Anda berhasil, Anda adalah jenius! Jika tidak, ya... setidaknya Anda mencoba! 😅
 
-### 🛠️ Teknologi yang Digunakan
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+```python
+import random
 
----
+angka_rahasia = random.randint(1, 10)
+tebakan = None
 
-### 🤝 Kontribusi
-Saya sangat terbuka untuk kolaborasi! Jika Anda memiliki ide atau proyek yang ingin Anda diskusikan, jangan ragu untuk menghubungi saya.
+while tebakan != angka_rahasia:
+    tebakan = int(input("Tebak angka antara 1 dan 10: "))
+    if tebakan < angka_rahasia:
+        print("Terlalu rendah! Coba lagi.")
+    elif tebakan > angka_rahasia:
+        print("Terlalu tinggi! Coba lagi.")
+    else:
+        print("Selamat! Anda berhasil menebak angka yang benar! 🎉")
